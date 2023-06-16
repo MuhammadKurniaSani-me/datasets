@@ -1,0 +1,11 @@
+Refund,Marital Status,Taxable Income,Evade
+Yes,Single,125K,No
+No,Married,100K,No
+No,Single,75K,No
+Yes,Married,120K,No
+No,Devorced,95K,Yes
+No,Married,60K,No
+Yes,Devorced,220K,No
+No,Single,85K,Yes
+No,Married,75K,No
+No,Single,90K,Yes
